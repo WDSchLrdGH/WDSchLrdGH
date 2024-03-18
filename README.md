@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WDSchLrdGH
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front-end developement
-- 💞️ I’m looking to collaborate on charity works, preferbly Catholic ones
+- 💞️ I’m looking to collaborate on charity works, I prefer catholic ones, but I am opened to help any Charity association
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
 
